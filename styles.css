@@ -48,7 +48,8 @@ html {
 }
 
 .hour-hand {
-  top: 59%;
+  top: 60%;
+  left: 4%;
   transform-origin: 150%;
   width: 42%;
   height: 8px;
