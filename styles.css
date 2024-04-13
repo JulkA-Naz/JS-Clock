@@ -24,7 +24,8 @@ html {
   height: 100%;
 }
 
-.clock {  position: relative;
+.clock {  
+  position: relative;
   width: 25rem;
   height: 25rem;
   border: 20px solid white;
@@ -45,7 +46,7 @@ html {
   border-radius: 50%;
   background: #ffffff;
   transform: translate(-50%, -50%);
-  box-shadow: inset 2px 0px 5px #262c37
+  box-shadow: inset 2px 0px 5px #262c37;
 }
 
 .clock:after {
@@ -59,7 +60,7 @@ html {
   border-radius: 50%;
   background: #796c6c68;
   transform: translate(-50%, -50%);
-  box-shadow: inset 2px 0px 5px #262c37
+  box-shadow: inset 2px 0px 5px #262c37;
 }
 .clock-face {
   position: relative;
@@ -67,7 +68,7 @@ html {
   height: 100%;
 }
 
-.hand { box-shadow: inset 2px 0px 5px #262c37
+.hand { box-shadow: inset 2px 0px 5px #262c37;
   border-radius: 3px;
   background: #ffffff;
   position: absolute;
